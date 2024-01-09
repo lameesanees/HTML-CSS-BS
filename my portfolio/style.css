@@ -1,0 +1,57 @@
+h1{
+    color: brown;
+    font-style:normal;
+    font: weight 500px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-style:normal;
+    font-size: medium;
+    font-weight: 600px;
+}
+h3{
+    color: black;
+    font-weight: 600px;
+    font-size: medium;
+    text-align: center;
+    
+}
+h4{
+    color: black;
+    font-weight: 600px;
+    font-size: medium;
+    text-align: center;
+}
+
+h5{
+    color: black;
+    font-weight: 600px;
+    font-size: medium;
+    text-align: center;
+}
+h6{
+    color: black;
+    font-weight: 600px;
+    font-size: medium;
+    text-align: center;
+}
+h6{
+    color: black;
+    font-weight: 600px;
+    font-size: medium;
+    text-align: center;
+}
+p1{
+    font-style: medium;
+    font-weight: 500px;
+    text-align: left;
+}
+table,th,td{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+
+
+

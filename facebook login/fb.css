@@ -1,0 +1,81 @@
+#header{
+    background-color: #3b5998;
+    height: 40px;
+}
+#fbhead{
+    color: white;
+    position: relative;
+    top: 5px;
+    left: 30px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+#login{
+    position: absolute;
+    top: 35px;
+    right: 00px;
+    left: 1040px;
+    position: absolute;
+}
+button{
+    background-color: #3b5998;
+    color: white;
+}
+p{
+    color: #0e385f;
+font-size: 20px;
+font-weight: bold;
+word-spacing: -1px;
+position: absolute;
+bottom: 600px;
+top: 100px;
+font-family: sans-serif;
+}
+#signup-area{
+    height: 100%;
+    padding-top: 650px;
+    background: linear-gradient(#FEFEFF, #D3D8E8);   
+}
+img{
+position: absolute;
+top: 300px;
+}
+h3{
+    position: absolute;
+    top: 50px;
+    left: 950px;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+#nxtline{
+    position: absolute;
+    top: 140px;
+    left: 960px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: black;
+}
+#table{
+    position: absolute;
+    top: 220px;
+    right: 50px;
+    left: 950px;
+    bottom: 700px;
+}
+h5{
+    position: absolute;
+    top: 70px;
+    right: 100px;
+    left: 5px;
+    bottom: 700px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    color: grey;
+}
+h6{
+    font-weight: lighter;
+    font-family: sans-serif;
+    color: grey;
+    font-size: 13px;
+}
